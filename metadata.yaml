@@ -1,0 +1,30 @@
+_repo: Essays--sthetical_12896
+_version: 0.0.1
+alternative_title: Essays Aesthetical
+creator:
+  author:
+    agent_name: Calvert, George Henry
+    alias: Calvert, George H. (George Henry)
+    birthdate: 1803
+    deathdate: 1889
+    gutenberg_agent_id: '4698'
+    url: http://www.gutenberg.org/2009/agents/4698
+    wikipedia: http://www.famousamericans.net/georgehenrycalvert/
+description: ''
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesthetics'
+- !lcc 'BH'
+- GITenberg
+tableOfContents: The beautiful -- What is poetry? -- Style -- Dante and his latest
+  translators -- Sainte-Beuve, the critic -- Thomas Carlyle -- Errata -- National
+  drama -- Usefulness of art.
+title: Essays Æsthetical
+url: http://www.gutenberg.org/ebooks/12896
